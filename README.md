@@ -113,3 +113,6 @@ Miniitaでは複数のテンプレートを事前に用意し、テンプレー�
 
 ## ■ 画面遷移図
 https://www.figma.com/design/fMNLgmhX0WqSTmgvktCdX7/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=0-1&t=t2RMkBAHQU4VD4Mv-1
+
+## ■ ER図
+https://app.diagrams.net/#Hs17w09%2FEntity-Relationship-Diagram%2Fmain%2F%E5%90%8D%E7%A7%B0%E6%9C%AA%E8%A8%AD%E5%AE%9A%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB.drawio#%7B%22pageId%22%3A%22R2lEEEUBdFMjLlhIrx00%22%7D
