@@ -115,4 +115,4 @@ Miniitaでは複数のテンプレートを事前に用意し、テンプレー�
 https://www.figma.com/design/fMNLgmhX0WqSTmgvktCdX7/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=0-1&t=t2RMkBAHQU4VD4Mv-1
 
 ## ■ ER図
-[![Image from Gyazo](https://i.gyazo.com/044b3420e79fa3389da3cbb9f7d49de0.png)](https://gyazo.com/044b3420e79fa3389da3cbb9f7d49de0)
+[![Image from Gyazo](https://i.gyazo.com/5f5d8ea2521193e4715a9bd7673a0c2b.png)](https://gyazo.com/5f5d8ea2521193e4715a9bd7673a0c2b)
